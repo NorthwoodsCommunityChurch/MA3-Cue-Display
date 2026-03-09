@@ -32,6 +32,7 @@ ehthumbs.db
 dist/
 build/
 *.dmg
+*.zip
 *.blockmap
 
 # Optional npm cache
@@ -43,6 +44,7 @@ build/
 # Screenshots
 *.png
 !cue-display-app/assets/*.png
+!gma3-cue-display-tauri/src-tauri/icons/*.png
 !Launcher.png
 !Web Layout.png
 
